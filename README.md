@@ -6,13 +6,13 @@
 This resume builder created by laravel, vueJs and bootstrap .
 
 ## Usage
-First of all you need to create account.
-Add your information
-Download yor resume in PDF format
+* First of all you need to create account.
+* Add your information
+* Download yor resume in PDF format
 
 ## Feature
-Login system
-Editing information
-Preview template 
-Download resume
+* Login system
+* Editing information
+* Preview template 
+* Download resume
 
