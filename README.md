@@ -3,16 +3,16 @@
 
 ## Run Development Mode
 
-This resume builder created by laravel, vueJs and bootstrap .
+This resume builder created by laravel,  bootstrap and mySql for data base.
 
 ## Usage
 * First of all you need to create account.
-* Add your information
-* Download yor resume in PDF format
+* Add your informations.
+* Download yor resume in PDF format.
 
 ## Feature
 * Login system
-* Editing information
+* Editing informations
 * Preview template 
-* Download resume
+* Download file
 
