@@ -12,7 +12,7 @@ This resume builder created by laravel,  bootstrap and mySql for data base.
 
 ## Feature
 * Login system
-* Editing informations
+* Editing forms
 * Preview template 
 * Download file
 
